@@ -30,7 +30,7 @@ Spring Boot backend service for real-time chat application with MongoDB integrat
 ### Installation
 
 1. Clone the repository:
-   git clone https://github.com/your-username/chat-app-backend.git
+   git clone https://github.com/Av899/ChatWebAppBack-End-repo.git
    cd chat-app-backend
 
 2. Build the project:
