@@ -60,20 +60,6 @@ management.endpoints.web.exposure.include=health,info,metrics
 | `/actuator/health`    | Application health check             |
 | `/actuator/metrics`   | Application metrics                  |
 
-## Development
-
-Project structure:
-chat-app-backend/
-├── src/
-│ ├── main/java/com/av/chatapp/backend/
-│ │ ├── config/ # WebSocket & MongoDB configuration
-│ │ ├── controller/ # REST & WebSocket controllers
-│ │ ├── model/ # MongoDB document models
-│ │ ├── repository/ # MongoDB repositories
-│ │ └── Application.java # Main class
-│ └── resources/ # Properties files
-└── pom.xml # Maven dependencies
-
 
 ## Dependencies
 
